@@ -8,7 +8,7 @@
 ## Steps Completed
 
 ### 1. Bucket Creation
-![Creating a Bucket](images/creating-bucket.png)
+![Creating a Bucket](images/s3/creating-bucket.png)
 - Bucket name: `my-first-bucket-candi`
 - Region: `us-east-1`
 - Block Public Access: Disabled (for learning purposes)
@@ -19,7 +19,7 @@
 - Accessed file via public URL
 
 ### 3. Static Website Hosting
-![Static Website Hosting](images/static-website-hosting.png)
+![Static Website Hosting](images/s3/static-website-hosting.png)
 - Enabled static website hosting on bucket
 - Created and uploaded `index.html`
 - Accessed website via S3 website endpoint
