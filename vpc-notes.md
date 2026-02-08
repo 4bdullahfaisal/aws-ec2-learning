@@ -1,4 +1,4 @@
-# AWS VPC Hands-On Lab
+# AWS VPC Hands-On Lab.
 
 ## Objective
 Design and implement a Virtual Private Cloud (VPC) with public and private subnets.
