@@ -75,3 +75,6 @@ cd practice_folder
 echo "Learning AWS EC2" > file1.txt
 touch file2.txt
 
+## Git Integration
+Now tracking all AWS labs with Git version control
+
